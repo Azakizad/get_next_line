@@ -9,7 +9,7 @@ Result : 112%
 
 ## 💡 How to use ?
 
-First step is to includ the GNL header:
+First step is to includ the GNL header to your code:
 
 ```C
 #include "get_next_line.h"
